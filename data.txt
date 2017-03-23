@@ -1,0 +1,17 @@
+[
+{
+"Name": "Srikanth Vadagam",
+"RollNo": 101,
+"Percentage": "80%"
+},
+{
+"Name": "S Vadagam",
+"RollNo": 102,
+"Percentage": "78%"
+},
+{
+"Name": "Srikanth V",
+"RollNo": 103,
+"Percentage": "82%"
+}
+]
